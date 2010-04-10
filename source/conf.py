@@ -34,7 +34,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'contents'
 
 # General information about the project.
 project = u'pyist.net'
@@ -134,7 +134,7 @@ html_style = 'pyist.css'
 html_title = u'İstanbul Python Kullanıcıları Grubu'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = u'Anasayfa'
+html_short_title = u'Site Haritası'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -163,7 +163,9 @@ html_last_updated_fmt = '%d %B %Y'
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
-#html_additional_pages = {}
+html_additional_pages = {
+    'index': 'index.html'
+}
 
 # If false, no module index is generated.
 html_use_modindex = False
@@ -200,7 +202,7 @@ htmlhelp_basename = 'pyistnetdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'pyistnet.tex', u'pyist.net Documentation',
+  ('contents', 'pyistnet.tex', u'pyist.net Documentation',
    u'Atamert Ölçgen', 'manual'),
 ]
 

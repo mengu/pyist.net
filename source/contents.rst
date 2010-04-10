@@ -1,5 +1,5 @@
-Anasayfa
-========
+Site Haritası
+=============
 
 .. centered:: \
 
