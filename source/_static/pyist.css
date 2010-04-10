@@ -1,0 +1,9 @@
+@import "default.css";
+
+
+div.body {
+    background-attachment: fixed;
+    background-image: url("background.jpeg");
+    background-repeat: repeat-x;
+    min-height: 520px;
+}
