@@ -20,4 +20,5 @@ Site Haritası
    :maxdepth: 2
 
    meetings
+   faq
    contact
