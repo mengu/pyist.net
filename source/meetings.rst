@@ -1,6 +1,13 @@
 Grup Toplantıları
 =================
 
+.. admonition:: Gelecek toplantı
+   :class: note next-meeting
+
+   :ref:`9 Nisan 2010 <next-meeting>`
+
+
+
 Toplantılar Hakkında
 --------------------
 
@@ -8,6 +15,8 @@ Pyist toplantıları her ayın ikinci Pazar günü düzenlenir. Toplantılarda g
 
 Her toplantının zamanı, yeri ve içeriği önceden sitede duyurulacaktır.
 
+
+.. _next-meeting:
 
 Toplantı Takvimi
 ----------------
