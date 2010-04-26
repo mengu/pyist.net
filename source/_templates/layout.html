@@ -5,3 +5,21 @@
     <li><a href="{{ pathto('index') }}">Anasayfa</a>&nbsp;|&nbsp;</li>
     <li><a href="{{ pathto('contents') }}">{{ shorttitle }}</a> &raquo;</li>
 {% endblock %}
+
+
+{%- block footer %}
+    <div class="footer">
+    {%- if hasdoc('copyright') %}
+      {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}
+    {%- else %}
+      {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}
+    {%- endif %}
+    {%- if last_updated %}
+      {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}
+    {%- endif %}
+    {%- if show_sphinx %}
+      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}
+    {%- endif %}
+    Bu sitenin <a href="http://github.com/muhuk/pyist.net">kaynak dosyaları</a>.
+    </div>
+{%- endblock %}
