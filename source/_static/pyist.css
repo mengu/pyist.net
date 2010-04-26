@@ -7,3 +7,8 @@ div.body {
     background-repeat: repeat-x;
     min-height: 520px;
 }
+
+div.note {
+    background-color: #0b2f4e;
+    border-color: #1e4d74;
+}
