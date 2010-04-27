@@ -6,5 +6,6 @@ Site Haritası
    :maxdepth: 2
 
    meetings
+   presentations
    faq
    contact
