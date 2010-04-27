@@ -11,7 +11,7 @@ Grup Toplantıları
 Toplantılar Hakkında
 --------------------
 
-Pyist toplantıları her ayın ikinci Pazar günü düzenlenir. Toplantılarda grup üyeleri hazırladıkları sunumları yapar.
+PYist toplantıları her ayın ikinci Pazar günü düzenlenir. Toplantılarda grup üyeleri hazırladıkları sunumları yapar.
 
 Her toplantının zamanı, yeri ve içeriği önceden sitede duyurulacaktır.
 
