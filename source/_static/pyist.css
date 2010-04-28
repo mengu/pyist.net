@@ -8,6 +8,13 @@ div.body {
     min-height: 520px;
 }
 
+div.body h3,
+div.body h4,
+div.body h5,
+div.body h6 {
+    border-bottom: none;
+}
+
 div.note {
     background-color: #0b2f4e;
     border-color: #1e4d74;

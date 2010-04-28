@@ -16,13 +16,19 @@ PYist toplantıları her ayın ikinci Pazar günü düzenlenir. Toplantılarda g
 Her toplantının zamanı, yeri ve içeriği önceden sitede duyurulacaktır.
 
 
-.. _next-meeting:
-
 Toplantı Takvimi
 ----------------
 
-:9 Nisan 2010, **???**:
+.. _next-meeting:
+
+9 Nisan 2010
+^^^^^^^^^^^^
+
+:Yer:
+    Gloria Jean's Coffees, Kanyon (K/1), Levent
+:Sunum:
     Python-Imaging ile Temel İşlemler - |muhuk|_
+
 
 Önceki Toplantılar
 ------------------
