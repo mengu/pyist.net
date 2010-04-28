@@ -25,7 +25,7 @@ Toplantı Takvimi
 ^^^^^^^^^^^^
 
 :Yer:
-    Gloria Jean's Coffees, Kanyon (K/1), Levent
+    `Gloria Jean's Coffees, Kanyon (K/1), Levent <http://maps.google.com/?ie=UTF8&ll=41.078073,29.012489&spn=0.004343,0.009559&z=17>`_
 :Sunum:
     Python-Imaging ile Temel İşlemler - |muhuk|_
 
