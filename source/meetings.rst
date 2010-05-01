@@ -1,11 +1,9 @@
 Grup Toplantıları
 =================
 
-.. admonition:: Gelecek toplantı
-   :class: note next-meeting
+.. sidebar:: Gelecek Toplantı
 
-   :ref:`9 Nisan 2010 <next-meeting>`
-
+    :ref:`9 Nisan 2010 <next-meeting>`
 
 
 Toplantılar Hakkında
