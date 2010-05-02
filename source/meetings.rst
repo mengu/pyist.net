@@ -3,7 +3,7 @@ Grup Toplantıları
 
 .. sidebar:: Gelecek Toplantı
 
-    :ref:`9 Nisan 2010 <next-meeting>`
+    :ref:`9 Mayıs 2010 <next-meeting>`
 
 
 Toplantılar Hakkında
@@ -19,7 +19,7 @@ Toplantı Takvimi
 
 .. _next-meeting:
 
-9 Nisan 2010
+9 Mayıs 2010
 ^^^^^^^^^^^^
 
 :Yer:
