@@ -22,6 +22,8 @@ Toplantı Takvimi
 9 Mayıs 2010
 ^^^^^^^^^^^^
 
+:Saat:
+    14:00
 :Yer:
     `Gloria Jean's Coffees, Kanyon (K/1), Levent <http://maps.google.com/?ie=UTF8&ll=41.078073,29.012489&spn=0.004343,0.009559&z=17>`_
 :Sunum:
