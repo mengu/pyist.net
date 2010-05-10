@@ -5,7 +5,7 @@ PYist toplantılarında sunum gerçekleştirmek için; sunum konunuzu ve kısa �
 
 .. rubric:: Python ile Test Tabanlı Geliştirme - |amiroff|_
 
-.. rubric:: Python-Imaging ile Temel İşlemler - |muhuk|_
+.. rubric:: `Python-Imaging ile Temel İşlemler </_static/presentation_files/pyist-pil-basic/pyist-pil-basic.html>`_ - |muhuk|_
 
 
 
