@@ -12,7 +12,7 @@
 Toplantının özeti
 -----------------
 
-.. 3~5 cümle ile veya madde madde, toplantıda konuşulan konular ve alınan kararlar
+İlk buluşma olması sebebiyle tanışma ile toplantıya başlandı. Daha sonra Metin Amiroff tarafından yapılan giriş konuşması sonrası PIL sunumuna geçildi. Sunum sonunda dinleyicilerden sunumları ile katılım yapmaları ve olası sunum konularını belirleyip başlık ve birer açıklama paragrafı ile önceden iletmeleri istendi.
 
 
 Katılımcılar
@@ -20,7 +20,14 @@ Katılımcılar
 
 * Metin Amiroff
 * Atamert Ölçgen
-
+* Özgür Işıl
+* Utku Karataş
+* Hamit Hamitoğlu
+* Uğur Devril
+* Timu Eren
+* Hasan Dinç
+* İlyas Özgören
+* Ümit Ünal
 
 .. |amiroff| replace:: Metin Amiroff
 .. _amiroff: mailto:metin@pyist.net
