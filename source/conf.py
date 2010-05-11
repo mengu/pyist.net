@@ -38,7 +38,7 @@ master_doc = 'contents'
 
 # General information about the project.
 project = u'pyist.net'
-copyright = u'2010, Atamert Ölçgen'
+copyright = u'2010, PYist'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
