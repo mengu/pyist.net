@@ -1,3 +1,7 @@
+
+.. include:: ../people.rst.inc
+
+
 9 Mayıs 2010
 ============
 
@@ -28,10 +32,3 @@ Katılımcılar
 * Hasan Dinç
 * İlyas Özgören
 * Ümit Ünal
-
-.. |amiroff| replace:: Metin Amiroff
-.. _amiroff: mailto:metin@pyist.net
-.. |muhuk| replace:: Atamert Ölçgen
-.. _muhuk: mailto:muhuk@pyist.net
-
-

@@ -1,3 +1,7 @@
+
+.. include:: people.rst.inc
+
+
 Grup Toplantıları
 =================
 
@@ -28,7 +32,3 @@ Toplantı Takvimi
 .. note::
 
    Henüz toplanmadık.
-
-
-.. |muhuk| replace:: Atamert Ölçgen
-.. _muhuk: mailto:muhuk@pyist.net
