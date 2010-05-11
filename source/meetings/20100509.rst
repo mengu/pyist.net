@@ -12,7 +12,7 @@
 Toplantının özeti
 -----------------
 
-İlk buluşma olması sebebiyle tanışma ile toplantıya başlandı. Daha sonra Metin Amiroff tarafından yapılan giriş konuşması sonrası PIL sunumuna geçildi. Sunum sonunda dinleyicilerden sunumları ile katılım yapmaları ve olası sunum konularını belirleyip başlık ve birer açıklama paragrafı ile önceden iletmeleri istendi.
+İlk buluşma olması sebebiyle tanışma ile toplantıya başlandı. Daha sonra |amiroff|_ tarafından yapılan giriş konuşması sonrası `PIL sunumuna </_static/presentation_files/pyist-pil-basic/pyist-pil-basic.html>`_ geçildi. Sunum sonunda dinleyicilerden sunumları ile katılım yapmaları ve olası sunum konularını belirleyip başlık ve birer açıklama paragrafı ile önceden iletmeleri istendi.
 
 
 Katılımcılar
