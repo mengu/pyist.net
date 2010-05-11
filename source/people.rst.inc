@@ -1,5 +1,6 @@
 
-.. note:: Substitutions for people
+.. Substitutions for people
+
 
 .. |amiroff| replace:: Metin Amiroff
 .. _amiroff: mailto:metin@pyist.net
