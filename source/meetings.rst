@@ -7,7 +7,7 @@ Grup Toplantıları
 
 .. sidebar:: Gelecek Toplantı
 
-    :ref:`9 Mayıs 2010 <next-meeting>`
+    :ref:`13 Haziran 2010 <next-meeting>`
 
 
 Toplantılar Hakkında
@@ -23,12 +23,18 @@ Toplantı Takvimi
 
 .. _next-meeting:
 
-.. rubric:: \ :doc:`meetings/20100509`
+13 Haziran 2010
+^^^^^^^^^^^^^^^
+
+:Saat:
+    14:00
+:Yer:
+    `Seyhan Cafe, Caferağa Mah. Muvakkithane Sk. No : 9/13 (PTT Karşısı) Kadıköy <http://www.mekanist.net/mekanlar/seyhan-cafe/>`_
+:Sunum:
+    Python Zen'i - |amiroff|_
 
 
 Önceki Toplantılar
 ------------------
 
-.. note::
-
-   Henüz toplanmadık.
+.. rubric:: \ :doc:`meetings/20100509`
