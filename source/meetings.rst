@@ -23,15 +23,7 @@ Toplantı Takvimi
 
 .. _next-meeting:
 
-13 Haziran 2010
-^^^^^^^^^^^^^^^
-
-:Saat:
-    14:00
-:Yer:
-    `Seyhan Cafe, Caferağa Mah. Muvakkithane Sk. No : 9/13 (PTT Karşısı) Kadıköy <http://www.mekanist.net/mekanlar/seyhan-cafe/>`_
-:Sunum:
-    Python Zen'i - |amiroff|_
+.. rubric:: \ :doc:`meetings/20100613`
 
 
 Önceki Toplantılar

@@ -1,0 +1,38 @@
+
+.. include:: ../people.rst.inc
+
+
+13 Haziran 2010
+===============
+
+:Saat:
+    14:00
+:Yer:
+    `Seyhan Cafe, Caferağa Mah. Muvakkithane Sk. No : 9/13 (PTT Karşısı) Kadıköy <http://www.mekanist.net/mekanlar/seyhan-cafe/>`_
+:Sunum:
+    Python Zen'i - |amiroff|_
+
+
+
+Toplantının özeti
+-----------------
+
+Kimseyi özel olarak davet etmediğimiz göz önüne alınırsa oldukça kalabalık bir şekilde toplandık. Yeni Python-sever arkadaşlarla tanıştık ve çok keyifli gün geçirdik. Toplantıya başlarken |amiroff|_ Python, `PYist`'in yapısı ve amaçları hakkında kısa bir konuşma yaptı. Daha sonra `Python Zen'i` sunumunu gerçekleştirdi. Sunumu bitirdikten sonra hava muhalefeti nedeniyle daha serin olan terasa geçilerek sohbete devam ettik.
+
+
+Katılımcılar
+------------
+
+* Metin Amiroff
+* Emrah Atalay
+* İrfan Durmuş
+* Timu Eren
+* Özgür Işıl
+* Türker İnce
+* Utku Karataş
+* İrfan Kaya
+* Atamert Ölçgen
+* Çağdaş Tatlıcı
+* Ümit Ünal
+* Ertuğrul Yılmaz
+* Osman Yüksel
