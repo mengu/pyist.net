@@ -23,10 +23,20 @@ Toplantı Takvimi
 
 .. _next-meeting:
 
-.. rubric:: \ :doc:`meetings/20100613`
+11 Temmuz 2010
+^^^^^^^^^^^^^^
+
+:Saat:
+    Henüz belirlenmedi.
+:Yer:
+    Henüz belirlenmedi.
+:Sunum:
+    Henüz belirlenmedi.
 
 
 Önceki Toplantılar
 ------------------
+
+.. rubric:: \ :doc:`meetings/20100613`
 
 .. rubric:: \ :doc:`meetings/20100509`
