@@ -7,7 +7,7 @@ Grup Toplantıları
 
 .. sidebar:: Gelecek Toplantı
 
-    :ref:`13 Haziran 2010 <next-meeting>`
+    :ref:`11 Temmuz 2010 <next-meeting>`
 
 
 Toplantılar Hakkında
