@@ -10,7 +10,7 @@
 :Yer:
     `Seyhan Cafe, Caferağa Mah. Muvakkithane Sk. No : 9/13 (PTT Karşısı) Kadıköy <http://www.mekanist.net/mekanlar/seyhan-cafe/>`_
 :Sunum:
-    Python Zen'i - |amiroff|_
+    `Python Zen'i </_static/presentation_files/Python_Zen_i.pdf>`_ - |amiroff|_
 
 
 
