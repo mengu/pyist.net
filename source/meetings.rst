@@ -27,11 +27,11 @@ Toplantı Takvimi
 ^^^^^^^^^^^^^^
 
 :Saat:
-    Henüz belirlenmedi.
+    14:00
 :Yer:
-    Henüz belirlenmedi.
+    `Bristol D.G.D, Kadıköy <http://maps.yahoo.com/#mvt=m&lat=40.988262&lon=29.023476&zoom=18>`_ (Sarraf Ali Sokak, Pilavcının karşısı)
 :Sunum:
-    Henüz belirlenmedi.
+    reST'e Giriş - |muhuk|_
 
 
 Önceki Toplantılar
