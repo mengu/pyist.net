@@ -7,7 +7,7 @@ Grup Toplantıları
 
 .. sidebar:: Gelecek Toplantı
 
-    :ref:`11 Temmuz 2010 <next-meeting>`
+    :ref:`8 Ağustos 2010 <next-meeting>`
 
 
 Toplantılar Hakkında
@@ -23,19 +23,24 @@ Toplantı Takvimi
 
 .. _next-meeting:
 
-11 Temmuz 2010
+8 Ağustos 2010
 ^^^^^^^^^^^^^^
 
 :Saat:
-    14:00
+    Belirlenmedi
 :Yer:
-    `Bristol D.G.D, Kadıköy <http://maps.yahoo.com/#mvt=m&lat=40.988262&lon=29.023476&zoom=18>`_ (Sarraf Ali Sokak, Pilavcının karşısı)
+    Belirlenmedi
 :Sunum:
-    reST'e Giriş - |muhuk|_
+    Belirlenmedi
+
+12 Eylül 2010
+^^^^^^^^^^^^^
 
 
 Önceki Toplantılar
 ------------------
+
+.. rubric:: \ :doc:`meetings/20100711`
 
 .. rubric:: \ :doc:`meetings/20100613`
 

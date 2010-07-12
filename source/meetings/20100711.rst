@@ -1,0 +1,29 @@
+
+.. include:: ../people.rst.inc
+
+11 Temmuz 2010
+==============
+
+:Saat:
+    14:00
+:Yer:
+    `Bristol D.G.D, Kadıköy <http://maps.yahoo.com/#mvt=m&lat=40.988262&lon=29.023476&zoom=18>`_ (Sarraf Ali Sokak, Pilavcının karşısı)
+:Sunum:
+    `reST'e Giriş </_static/presentation_files/pyist-introduction-to-rest/presentation.html>`_ - |muhuk|_
+
+
+Toplantının özeti
+-----------------
+
+Sunumumuzun ardından biraz katılımcılık hakkında konuştuk. Sonrasında yazılımcıların çalışma koşullarından başlayan sohbet haddinden fazla askerlik anısının anlatılmasıyla devam etti.
+
+
+Katılımcılar
+------------
+
+* İsmail Taha Aykaç
+* Özgür Işıl
+* İrfan Kaya
+* Atamert Ölçgen
+* İzzet Üzbek
+* Osman Yüksel
