@@ -27,11 +27,12 @@ Toplantı Takvimi
 ^^^^^^^^^^^^^^
 
 :Saat:
-    Belirlenmedi
+    14:00
 :Yer:
-    Belirlenmedi
+    City Brasserie, Şişli Cevahir (Kat 6. No 375)
 :Sunum:
-    Belirlenmedi
+    Tornado - |yuxel|
+    
 
 12 Eylül 2010
 ^^^^^^^^^^^^^

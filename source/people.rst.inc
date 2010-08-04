@@ -6,3 +6,4 @@
 .. _amiroff: mailto:metin@pyist.net
 .. |muhuk| replace:: Atamert Ölçgen
 .. _muhuk: mailto:muhuk@pyist.net
+.. |yuxel| replace:: Osman Yüksel
