@@ -7,7 +7,7 @@ Grup Toplantıları
 
 .. sidebar:: Gelecek Toplantı
 
-    :ref:`8 Ağustos 2010 <next-meeting>`
+    :ref:`19 Eylül 2010 <next-meeting>`
 
 
 Toplantılar Hakkında
@@ -23,23 +23,14 @@ Toplantı Takvimi
 
 .. _next-meeting:
 
-8 Ağustos 2010
-^^^^^^^^^^^^^^
-
-:Saat:
-    14:00
-:Yer:
-    City Brasserie, Şişli Cevahir (Kat 6. No 375)
-:Sunum:
-    Tornado - |yuxel|
-    
-
-12 Eylül 2010
+19 Eylül 2010
 ^^^^^^^^^^^^^
 
 
 Önceki Toplantılar
 ------------------
+
+.. rubric:: \ :doc:`meetings/20100808`
 
 .. rubric:: \ :doc:`meetings/20100711`
 

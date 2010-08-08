@@ -1,0 +1,31 @@
+
+.. include:: ../people.rst.inc
+
+8 Ağustos 2010
+==============
+
+:Saat:
+    14:00
+:Yer:
+    City Brasserie, Şişli Cevahir (Kat 6. No 375)
+:Sunum:
+    `Tornado </_static/presentation_files/Tornado.pdf>`_ - |yuxel|
+
+
+Toplantının özeti
+-----------------
+
+|yuxel|'in gerçekleştirdiği sunumun ardından gelecekte yapılacak sunumların konularını belirledik.
+
+
+Katılımcılar
+------------
+
+* Muhammet S. Aydın
+* Metin Amiroff
+* İsmail Taha Aykaç
+* Murat Çorlu
+* Cihan Kallenci
+* Atamert Ölçgen
+* Ümit Ünal
+* Osman Yüksel
