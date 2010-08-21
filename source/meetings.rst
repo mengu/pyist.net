@@ -26,14 +26,18 @@ Toplantı Takvimi
 19 Eylül 2010
 ^^^^^^^^^^^^^
 
+:Saat:
+    Belirlenmedi
+:Yer:
+    Belirlenmedi
+:Sunum:
+    Belirlenmedi
+
 
 Önceki Toplantılar
 ------------------
 
-.. rubric:: \ :doc:`meetings/20100808`
-
-.. rubric:: \ :doc:`meetings/20100711`
-
-.. rubric:: \ :doc:`meetings/20100613`
-
-.. rubric:: \ :doc:`meetings/20100509`
+* :doc:`meetings/20100808`
+* :doc:`meetings/20100711`
+* :doc:`meetings/20100613`
+* :doc:`meetings/20100509`
