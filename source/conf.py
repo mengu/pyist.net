@@ -104,24 +104,6 @@ html_theme = 'default'
 html_theme_options = {
     'nosidebar': True,
     'rightsidebar': True,
-    'bgcolor': '#1e4d74',
-    'textcolor': '#ffffff',
-    'linkcolor': '#ffd43b',
-
-    'headbgcolor': 'transparent',
-    'headtextcolor': '#ffffff',
-    'headlinkcolor': '#ffd43b',
-
-    'sidebarbgcolor': '#1e4d74',
-    'sidebartextcolor': '#ffffff',
-    'sidebarlinkcolor': '#ffd43b',
-
-    'relbarbgcolor': '#0b2f4e',
-    'relbartextcolor': '#306998',
-    'relbarlinkcolor': '#5a9fd4',
-
-    'footerbgcolor': '#0b2f4e',
-    'footertextcolor': '#1e4d74',
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
