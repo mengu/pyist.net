@@ -14,8 +14,8 @@ git pull origin master
 if [ "$LOCAL_COMMIT" != "$REMOTE_COMMIT" ]; then
   echo $REMOTE_COMMIT > .last_commit
   echo "Detected new commit. Building..."
-  make clean html || error=1
-  if [ ! $error ]; then
+  make clean html
+  if [ $? -eq 0 ]; then
     echo "Build successful!"
     echo "Copying files..."
     rm -rf $DEPLOYMENT_PATH
@@ -24,7 +24,8 @@ if [ "$LOCAL_COMMIT" != "$REMOTE_COMMIT" ]; then
     mv $DEPLOYMENT_PATH/_static/.htaccess $DEPLOYMENT_PATH/
     echo "Done.";
   else
-    echo "Build failed!";
+    echo "Build failed!"
+    error=1;
   fi;
 else
   echo "No new commits.";
