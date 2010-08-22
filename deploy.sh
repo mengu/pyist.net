@@ -18,8 +18,7 @@ if [ "$LOCAL_COMMIT" != "$REMOTE_COMMIT" ]; then
   if [ $? -eq 0 ]; then
     echo "Build successful!"
     echo "Copying files..."
-    rm -rf $DEPLOYMENT_PATH
-    mkdir -p $DEPLOYMENT_PATH
+    rm -rf $DEPLOYMENT_PATH/*
     cp -R build/html/* $DEPLOYMENT_PATH
     cp build/html/_static/htaccess $DEPLOYMENT_PATH/.htaccess
     echo "Done.";
