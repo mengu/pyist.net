@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} !^www\.pyist\.net$ [NC]
+RewriteRule ^(.*)$ http://www.pyist.net/$1 [R=301,L]
+
