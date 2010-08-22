@@ -6,14 +6,14 @@ touch .last_commit
 LOCAL_COMMIT=`cat .last_commit`
 REMOTE_COMMIT=`git log -n1 --pretty=%H`
 
-DEPLOYMENT_PATH="~/webapps/pyist"
+DEPLOYMENT_PATH=~/webapps/pyist
 
-date +"%F %D Script started..."
+date +"%F %T Script started..."
 echo "Pulling from origin..."
 git pull origin master
 if [ "$LOCAL_COMMIT" != "$REMOTE_COMMIT" ]; then
   echo $REMOTE_COMMIT > .last_commit
-  echo "Detected new commit. Building..."
+  echo "Detected new commit ${REMOTE_COMMIT}. Building..."
   make clean html
   if [ $? -eq 0 ]; then
     echo "Build successful!"
