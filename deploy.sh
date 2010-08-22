@@ -21,7 +21,7 @@ if [ "$LOCAL_COMMIT" != "$REMOTE_COMMIT" ]; then
     rm -rf $DEPLOYMENT_PATH
     mkdir -p $DEPLOYMENT_PATH
     cp -R build/html/* $DEPLOYMENT_PATH
-    mv $DEPLOYMENT_PATH/_static/.htaccess $DEPLOYMENT_PATH/
+    cp build/html/_static/htaccess $DEPLOYMENT_PATH/.htaccess
     echo "Done.";
   else
     echo "Build failed!"
