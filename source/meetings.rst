@@ -27,11 +27,11 @@ Toplantı Takvimi
 ^^^^^^^^^^^^^
 
 :Saat:
-    Belirlenmedi
+    14:00
 :Yer:
-    Belirlenmedi
+    İST Cafe (arka salon). İstiklal cd. No 6.
 :Sunum:
-    Belirlenmedi
+    Kod Kalitesi - Atamert Ölçgen
 
 
 Önceki Toplantılar
