@@ -7,7 +7,7 @@ Grup Toplantıları
 
 .. sidebar:: Gelecek Toplantı
 
-    :ref:`19 Eylül 2010 <next-meeting>`
+    :ref:`12 Aralık 2010 <next-meeting>`
 
 
 Toplantılar Hakkında
@@ -23,20 +23,21 @@ Toplantı Takvimi
 
 .. _next-meeting:
 
-19 Eylül 2010
-^^^^^^^^^^^^^
+12 Aralık 2010
+^^^^^^^^^^^^^^
 
 :Saat:
     14:00
 :Yer:
-    İST Cafe (arka salon). İstiklal cd. No 6.
+    Taksim İST Cafe (arka salon). İstiklal cd. No 6.
 :Sunum:
-    Kod Kalitesi - Atamert Ölçgen
+    Qooxdoo - Muhammet S. Aydın
 
 
 Önceki Toplantılar
 ------------------
 
+* :doc:`meetings/20101212`
 * :doc:`meetings/20100808`
 * :doc:`meetings/20100711`
 * :doc:`meetings/20100613`

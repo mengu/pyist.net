@@ -30,5 +30,9 @@ PYist toplantılarında sunum gerçekleştirmek için; sunum konunuzu ve kısa �
 
 * `Tornado </_static/presentation_files/Tornado.pdf>`_ - |yuxel|
 
+.. rubric:: Q
+
+* `Qooxdoo </_static/presentation_files/Qooxdoo.pdf>`_ - |mengukagan|
+
 
 .. [#] Özellikle kendi kendinizi eleştirirken.

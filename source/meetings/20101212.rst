@@ -1,0 +1,26 @@
+
+.. include:: ../people.rst.inc
+
+12 Aralık 2010
+==============
+
+:Saat:
+    14:00
+:Yer:
+     Taksim İST Cafe (arka salon). İstiklal cd. No6.
+:Sunum:
+    `Qooxdoo </_static/presentation_files/Qooxdoo.pdf>`_ - |mengukagan|
+
+
+Toplantının özeti
+-----------------
+
+|mengukagan|'in gerçekleştirdiği sunumun ardından yazılım geliştirme sektöründeki yeni trendler konuşuldu.
+
+
+Katılımcılar
+------------
+
+* Muhammet S. Aydın
+* Metin Amiroff
+* Utku Karataş
